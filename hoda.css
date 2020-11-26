@@ -1,7 +1,7 @@
 body {
    font-family: 'Arimo', sans-serif;
 ;
-    color:darkslategrey     
+    color:darkslategrey    
 }
 
 
@@ -15,7 +15,11 @@ h1
 font font-size:48px;
     color:chocolate
 }
-h3 {
+
+h2{font font-size:48px;
+    color:chocolate
+}
+h3 {   color:chocolate
 
     color: darkgreen
 }
@@ -27,3 +31,22 @@ h3 {
     padding: 14px;
     display: inline-block;
 }
+
+
+    
+}
+
+
+coler{
+    
+}
+
+.cta {
+    background: beige;
+    font-size: 29px;
+    padding: 35px;
+    text-decoration: none
+    paddung:14px;}
+
+    .cta h3
+coler:default
