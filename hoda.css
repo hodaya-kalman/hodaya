@@ -1,27 +1,28 @@
 body {
-   font-family: 'Arimo', sans-serif;
-;
-    color:darkslategrey    
+    font-family: 'Arimo', sans-serif;
+    ;
+    color: darkslategrey
 }
 
 
 .container {
-    max-width: 800px;
+    max-width: 626px;
     margin: auto;
 }
 
-h1
-{font-family: 'Bellefair', serif;
-font font-size:48px;
-    color:chocolate
+h1 {
+    font-family: 'Bellefair', serif;
+    font font-size: 48px;
+    color: chocolate
 }
 
-h2{font font-size:48px;
-    color:chocolate
+h2 {
+    font-size: 48px;
+    color: chocolate
 }
-h3 {   color:chocolate
 
-    color: darkgreen
+h3 {
+    color: chocolate
 }
 
 .button {
@@ -33,20 +34,34 @@ h3 {   color:chocolate
 }
 
 
-    
+
 }
 
 
-coler{
-    
-}
+coler {}
 
 .cta {
-    background: beige;
+    background: #fbe97e;
     font-size: 29px;
     padding: 35px;
-    text-decoration: none
-    paddung:14px;}
+    overflow: hidden;
 
-    .cta h3
-coler:default
+}
+
+
+
+.alignleft {
+    max-width: 40%;
+    float: left;
+    margin-right: 14px;
+    margin-bottom: 14px;
+}
+
+
+.imgbook {
+    max-width: 150px;
+}
+
+.alingnleft {
+float: left; 
+}
