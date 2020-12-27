@@ -1,0 +1,81 @@
+body {
+    font-family: 'Arimo', sans-serif;
+    ;
+    color: darkslategrey
+}
+
+
+.container {
+    max-width: 626px;
+    margin: auto;
+}
+
+h1 {
+    font-family: 'Bellefair', serif;
+    font font-size: 48px;
+    color: chocolate
+}
+
+h2 {
+    font-size: 48px;
+    color: chocolate
+}
+
+h3 {
+    color: chocolate
+}
+
+.button {
+    background: #08c;
+    color: #fff;
+    text-decoration: none;
+    padding: 14px;
+    display: inline-block;
+}
+
+
+
+}
+
+
+coler {}
+
+.cta {
+    background: #fbe97e;
+    font-size: 29px;
+    padding: 35px;
+    overflow: hidden;
+
+}
+
+
+
+.alignleft {
+    max-width: 40%;
+    float: left;
+    margin-right: 14px;
+    margin-bottom: 14px;
+}
+
+
+.imgbook {
+    max-width: 150px;
+}
+
+.alingnleft {
+    float: left;
+}
+
+
+
+    
+new{
+    padding: 60px;  
+    background: url(img/345.jpg);
+  background-position: center;
+    background-size: cover;
+}
+
+
+
+
