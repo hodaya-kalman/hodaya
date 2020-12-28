@@ -1,7 +1,7 @@
 body {
     font-family: 'Arimo', sans-serif;
-    ;
-    color: darkslategrey
+    
+    color: darkslategrey;
 }
 
 
@@ -12,17 +12,17 @@ body {
 
 h1 {
     font-family: 'Bellefair', serif;
-    font font-size: 48px;
-    color: chocolate
+    font-size: 48px;
+    color: chocolate;
 }
 
 h2 {
     font-size: 48px;
-    color: chocolate
+    color: chocolate;
 }
 
 h3 {
-    color: chocolate
+    color: chocolate;
 }
 
 .button {
@@ -34,12 +34,6 @@ h3 {
 }
 
 
-
-}
-
-
-coler {}
-
 .cta {
     background: #fbe97e;
     font-size: 29px;
@@ -48,15 +42,12 @@ coler {}
 
 }
 
-
-
 .alignleft {
     max-width: 40%;
     float: left;
     margin-right: 14px;
     margin-bottom: 14px;
 }
-
 
 .imgbook {
     max-width: 150px;
@@ -67,15 +58,13 @@ coler {}
 }
 
 .news {
-    background: url(img/345.jpg)
+    background: url(img/345.jpg);
     padding: 60px;
-        background-position: center
-   backgrounnd size:caver
-            text aling:center}
-    backgroud urle(img/345);
-        background-image:}
-
-        linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+        background-position: center;
+   background-size:cover;
+            text-align:center;
+   
+        background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
         url(img/876.jpg);
     /*background: grdy:*/
 }
