@@ -1,6 +1,5 @@
 body {
     font-family: 'Arimo', sans-serif;
-    
     color: darkslategrey;
 }
 
@@ -13,12 +12,12 @@ body {
 h1 {
     font-family: 'Bellefair', serif;
     font-size: 48px;
-    color: chocolate;
+    color:chocolate;
 }
 
 h2 {
     font-size: 48px;
-    color: chocolate;
+    color:currentColor;
 }
 
 h3 {
@@ -32,14 +31,11 @@ h3 {
     padding: 14px;
     display: inline-block;
 }
-
-
 .cta {
     background: #fbe97e;
     font-size: 29px;
     padding: 35px;
     overflow: hidden;
-
 }
 
 .alignleft {
@@ -58,13 +54,22 @@ h3 {
 }
 
 .news {
-    background: url(img/345.jpg);
+
     padding: 60px;
-        background-position: center;
-   background-size:cover;
-            text-align:center;
-   
-        background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-        url(img/876.jpg);
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+        url(img/345.jpg);
     /*background: grdy:*/
+}
+input:focus {
+  outline: 0;
+  background: rgba(0,0,0,0.5);
+}
+
+.button:hover {
+  background: #fff;
+  color: #000;
 }
