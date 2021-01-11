@@ -1,30 +1,38 @@
 body {
-    
-font-family: 'Alef', sans-serif;
+
+    font-family: 'Alef', sans-serif;
 }
-h1, h2, h3, h4, button {
-font-weight: 400;
-font-family: 'Arimo', sans-serif;
-font-family: 'Secular One', sans-serif;
+
+h1,
+h2,
+h3,
+h4,
+button {
+    font-weight: 400;
+    font-family: 'Arimo', sans-serif;
+    font-family: 'Secular One', sans-serif;
 }
 
 .container {
-  max-width: 800px;
-  margin: auto;
+    max-width: 800px;
+    margin: auto;
 }
+
 img {
-  max-width: 100%;
-  width: auto;
-  height: auto;
+    max-width: 100%;
+    width: auto;
+    height: auto;
 }
+
 .about .container {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  align-items: center;
-  grid-gap: 30px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    grid-gap: 30px;
 }
+
 .about img {
-  display: block;
+    display: EB7F23;
     line-height: 1.1;
 }
 
@@ -33,33 +41,55 @@ img {
 
 H1 {
     font-size: 48px;
-    li
 }
 
 .button {
-  color: crimson;
-  text-decoration: none;
-  border: 3px solid #fff;
-  padding: 14px 20px;
-  display: inline-block;
-  margin-top: 10px;
- transition: .3s;
-border-radius: 10px;
+    color: crimson;
+    text-decoration: none;
+    border: 3px solid #fff;
+    padding: 14px 20px;
+    display: inline-block;
+    margin-top: 10px;
+    transition: .3s;
+    border-radius: 10px;
 
 }
 
 .button:hover {
-  background: #fff;
-  color: #000;
+    background: EB7F23;
+    color: #000;
 }
-
-<img src="img/logo.svg" alt="לביא - עיצוב אתרי אינטרנט" class="logo">
+.about{background:
+     background: EB7F23;
+    color: #000;color:}
 
 .logo {
-         <img src="img/logo.svg.svg" alt="ישראלה ישראלי">
-
-  max-width: 150px;
-  display: block;
-  margin: 10px auto;
+    max-width: 150px;
+    display: block;
+    margin: 10px auto;
 }
 
+.gallery img {
+    display: block;
+}
+
+.gallery {
+    list-style: none;
+    padding: 0;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 40px;
+    font-size: 21px;
+    text-align: center;
+    font-weight: bold;
+    color: gray;
+}
+
+.gallery img {
+    display: block;
+}
+
+h2 {
+    font-size: 36px;
+    text-align: center;
+}
