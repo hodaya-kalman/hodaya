@@ -13,6 +13,10 @@ button {
     font-family: 'Secular One', sans-serif;
 }
 
+.about{
+    background:#95D2E6;
+}
+
 .container {
     max-width: 800px;
     margin: auto;
@@ -56,11 +60,11 @@ H1 {
 }
 
 .button:hover {
-    background: EB7F23;
+    background: #722B34;
     color: #000;
 }
 .about{background:
-     background: EB7F23;
+     background:#722B34;
     color: #000;color:}
 
 .logo {
@@ -92,4 +96,36 @@ H1 {
 h2 {
     font-size: 36px;
     text-align: center;
+}
+.contact{
+    background: #F4BAC3;
+    font-size: 24;
+  text-align: center;
+  margin-top: 60px;
+  padding: 40px 0;
+}
+.contact a:hover {
+  opacity: 0.7;
+}
+a {
+  color: #000;
+}
+
+
+.contact ul {
+  list-style: none;
+  padding: 0;
+}
+.contact li {
+  margin-bottom: 7px;
+}
+
+
+.footer {
+  background: #F9F9F9;
+  text-align: center;
+  padding: 20px 0;
+}
+.footer a {
+  margin: 0 10px;
 }
